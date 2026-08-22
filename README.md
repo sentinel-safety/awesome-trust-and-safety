@@ -131,6 +131,7 @@ A curated list of tools, research, organizations, datasets, and frameworks for t
 
 - [NCMEC NetSmartz](https://www.missingkids.org/netsmartz/home) - Educational resources for children, parents, and educators on online safety.
 - [IWF Awareness Resources](https://www.iwf.org.uk/resources/) - Reports, guides, and awareness materials from the Internet Watch Foundation.
+- [MindDividend Shield](https://alphaengineerai.com/global-online-scam-checker.html) - Free multilingual first-pass education for suspicious messages, links, and payment requests, with privacy-first guidance and official reporting routes; not an official investigation or guarantee.
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/) - Multidisciplinary research on the social implications of the internet.
 - [LSE Media and Communications](https://www.lse.ac.uk/media-and-communications) - Research group studying children's digital lives and online safety (Prof. Sonia Livingstone).
 
